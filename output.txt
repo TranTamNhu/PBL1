@@ -1,0 +1,40 @@
+       ________________________________________________________________________________________________|
+        |                     Truong: Dai Hoc Bach Khoa- Dai hoc Da Nang                                |
+        |                            Khoa  : Cong nghe thong tin                                        |
+        |                            PBL1  : DO AN LAP TRINH                                            |
+        |          De tai: QUA TRINH TINH TOAN BANG THUAT TOAN PHAN CUM KMEANS                          |
+        |                     Giao vien huong dan : Nguyen Tan Khoi                                     |
+        |                     Sinh vien : Nguyen Thi Suong Mai - 23T_DT1                                |
+        |                                 Tran Tam Nhu         - 23T_DT3                                |
+        |_______________________________________________________________________________________________|
+Enter the number of clusters centers :2
+The number of cluster centers entered is:  2
+Enter the name of file: toanvan.txt
+Do you want to enter user-defined cluster centers? (1 for Yes, 0 for No): 1
+Enter center values for Cluster 1:
+Enter value 1: 10
+Enter value 2: 8
+Enter center values for Cluster 2:
+Enter value 1: 6
+Enter value 2: 9
+End of iteration 2!!!
+
+Cluster 1
+Point ID: 1 Values: 10 8
+Point ID: 3 Values: 8 5
+Point ID: 6 Values: 9 5
+Farthest Point: ID 1 Distance: 2.23607
+Nearest Point: ID 6 Distance: 1
+Cluster values: 9 6
+
+Cluster 2
+Point ID: 2 Values: 6 9
+Point ID: 4 Values: 7 7
+Point ID: 5 Values: 6 8
+Point ID: 7 Values: 4 7
+Point ID: 8 Values: 8 9
+Point ID: 9 Values: 7 6
+Point ID: 10 Values: 5 6
+Farthest Point: ID 8 Distance: 2.43277
+Nearest Point: ID 5 Distance: 0.589015
+Cluster values: 6.14286 7.42857

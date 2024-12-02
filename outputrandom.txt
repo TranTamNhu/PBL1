@@ -1,0 +1,1525 @@
+       ________________________________________________________________________________________________|
+        |                     Truong: Dai Hoc Bach Khoa- Dai hoc Da Nang                                |
+        |                            Khoa  : Cong nghe thong tin                                        |
+        |                            PBL1  : DO AN LAP TRINH                                            |
+        |          De tai: QUA TRINH TINH TOAN BANG THUAT TOAN PHAN CUM KMEANS                          |
+        |                     Giao vien huong dan : Nguyen Tan Khoi                                     |
+        |                     Sinh vien : Nguyen Thi Suong Mai - 23T_DT1                                |
+        |                                 Tran Tam Nhu         - 23T_DT3                                |
+        |_______________________________________________________________________________________________|
+Enter the number of clusters centers :100
+The number of cluster centers entered is:  100
+Enter the name of file: rd1000.txt
+Do you want to enter user-defined cluster centers? (1 for Yes, 0 for No): 0
+End of iteration 15!!!
+
+Cluster 1
+Point ID: 1 Values: 68 20
+Point ID: 154 Values: 57 30
+Point ID: 205 Values: 68 28
+Point ID: 413 Values: 72 32
+Point ID: 650 Values: 56 35
+Point ID: 687 Values: 62 35
+Point ID: 737 Values: 66 19
+Point ID: 837 Values: 64 32
+Point ID: 878 Values: 63 20
+Point ID: 897 Values: 74 25
+Farthest Point: ID 650 Distance: 11.6516
+Nearest Point: ID 205 Distance: 3.02655
+Cluster values: 65 27.6
+
+Cluster 2
+Point ID: 2 Values: 72 -74
+Point ID: 82 Values: 61 -86
+Point ID: 90 Values: 61 -71
+Point ID: 161 Values: 65 -72
+Point ID: 192 Values: 64 -83
+Point ID: 201 Values: 73 -69
+Point ID: 367 Values: 59 -70
+Point ID: 394 Values: 60 -85
+Point ID: 489 Values: 56 -70
+Point ID: 681 Values: 54 -70
+Point ID: 848 Values: 65 -68
+Farthest Point: ID 82 Distance: 11.7639
+Nearest Point: ID 161 Distance: 3.27903
+Cluster values: 62.7273 -74.3636
+
+Cluster 3
+Point ID: 471 Values: -88 10
+Point ID: 785 Values: -85 6
+Point ID: 985 Values: -83 5
+Point ID: 26 Values: -81 2
+Point ID: 279 Values: -81 5
+Point ID: 696 Values: -94 3
+Farthest Point: ID 696 Distance: 8.9334
+Nearest Point: ID 785 Distance: 0.897527
+Cluster values: -85.3333 5.16667
+
+Cluster 4
+Point ID: 913 Values: -53 -33
+Point ID: 285 Values: -63 -30
+Point ID: 361 Values: -61 -37
+Point ID: 466 Values: -54 -40
+Point ID: 610 Values: -50 -40
+Point ID: 775 Values: -62 -44
+Point ID: 491 Values: -64 -39
+Point ID: 502 Values: -50 -41
+Point ID: 934 Values: -55 -46
+Point ID: 435 Values: -54 -46
+Farthest Point: ID 285 Distance: 11.5378
+Nearest Point: ID 466 Distance: 2.63059
+Cluster values: -56.6 -39.6
+
+Cluster 5
+Point ID: 311 Values: -37 89
+Point ID: 303 Values: -43 91
+Point ID: 351 Values: -46 82
+Point ID: 545 Values: -44 80
+Point ID: 688 Values: -44 81
+Point ID: 764 Values: -29 93
+Point ID: 867 Values: -43 77
+Point ID: 43 Values: -28 90
+Point ID: 265 Values: -40 71
+Point ID: 389 Values: -32 82
+Point ID: 763 Values: -33 82
+Point ID: 939 Values: -28 86
+Point ID: 42 Values: -24 89
+Point ID: 68 Values: -29 82
+Point ID: 944 Values: -29 82
+Point ID: 684 Values: -22 85
+Point ID: 35 Values: -21 81
+Point ID: 512 Values: -22 92
+Farthest Point: ID 265 Distance: 14.9118
+Nearest Point: ID 763 Distance: 2.16667
+Cluster values: -33 84.1667
+
+Cluster 6
+Point ID: 646 Values: -66 -85
+Point ID: 627 Values: -62 -75
+Point ID: 876 Values: -73 -82
+Farthest Point: ID 627 Distance: 7.55719
+Nearest Point: ID 646 Distance: 4.44722
+Cluster values: -67 -80.6667
+
+Cluster 7
+Point ID: 971 Values: 14 23
+Point ID: 34 Values: 2 15
+Point ID: 238 Values: -2 27
+Point ID: 264 Values: 10 29
+Point ID: 339 Values: 17 26
+Point ID: 541 Values: 13 28
+Point ID: 581 Values: 18 25
+Point ID: 606 Values: 15 25
+Point ID: 651 Values: 6 17
+Point ID: 708 Values: 10 18
+Point ID: 783 Values: 6 16
+Point ID: 829 Values: 16 31
+Point ID: 978 Values: 3 28
+Farthest Point: ID 238 Distance: 12.2993
+Nearest Point: ID 971 Distance: 4.21114
+Cluster values: 9.84615 23.6923
+
+Cluster 8
+Point ID: 900 Values: -59 -88
+Point ID: 155 Values: -57 -99
+Point ID: 732 Values: -60 -86
+Point ID: 736 Values: -53 -78
+Farthest Point: ID 155 Distance: 11.2528
+Nearest Point: ID 900 Distance: 1.76777
+Cluster values: -57.25 -87.75
+
+Cluster 9
+Point ID: 94 Values: 84 -58
+Point ID: 406 Values: 90 -57
+Point ID: 455 Values: 91 -54
+Point ID: 519 Values: 94 -56
+Point ID: 700 Values: 94 -51
+Point ID: 838 Values: 81 -53
+Point ID: 931 Values: 86 -54
+Point ID: 349 Values: 86 -51
+Farthest Point: ID 838 Distance: 7.35697
+Nearest Point: ID 931 Distance: 2.26385
+Cluster values: 88.25 -54.25
+
+Cluster 10
+Point ID: 920 Values: 46 95
+Point ID: 91 Values: 28 93
+Point ID: 99 Values: 35 83
+Point ID: 125 Values: 49 84
+Point ID: 156 Values: 42 93
+Point ID: 250 Values: 54 88
+Point ID: 257 Values: 43 90
+Point ID: 263 Values: 34 82
+Point ID: 338 Values: 39 91
+Point ID: 347 Values: 25 97
+Point ID: 409 Values: 43 84
+Point ID: 480 Values: 45 87
+Point ID: 747 Values: 41 91
+Point ID: 751 Values: 53 96
+Point ID: 761 Values: 39 87
+Point ID: 879 Values: 46 89
+Farthest Point: ID 347 Distance: 18.0633
+Nearest Point: ID 747 Distance: 1.66771
+Cluster values: 41.375 89.375
+
+Cluster 11
+Point ID: 135 Values: -46 25
+Point ID: 343 Values: -48 23
+Point ID: 419 Values: -45 18
+Point ID: 704 Values: -41 23
+Point ID: 926 Values: -43 22
+Point ID: 958 Values: -39 26
+Point ID: 270 Values: -38 22
+Point ID: 271 Values: -38 25
+Point ID: 586 Values: -35 19
+Point ID: 306 Values: -33 17
+Point ID: 997 Values: -34 24
+Point ID: 477 Values: -32 22
+Farthest Point: ID 343 Distance: 8.70664
+Nearest Point: ID 270 Distance: 1.34371
+Cluster values: -39.3333 22.1667
+
+Cluster 12
+Point ID: 530 Values: -55 12
+Point ID: 104 Values: -61 26
+Point ID: 324 Values: -62 12
+Point ID: 439 Values: -55 26
+Point ID: 496 Values: -57 10
+Point ID: 560 Values: -65 22
+Point ID: 691 Values: -53 14
+Farthest Point: ID 439 Distance: 9.17961
+Nearest Point: ID 691 Distance: 6.30031
+Cluster values: -58.2857 17.4286
+
+Cluster 13
+Point ID: 509 Values: 23 67
+Point ID: 101 Values: 14 84
+Point ID: 141 Values: 18 80
+Point ID: 203 Values: 16 79
+Point ID: 204 Values: 10 72
+Point ID: 236 Values: 22 67
+Point ID: 243 Values: 25 78
+Point ID: 437 Values: 23 72
+Point ID: 486 Values: 25 86
+Point ID: 569 Values: 26 75
+Point ID: 672 Values: 8 76
+Farthest Point: ID 486 Distance: 11.6154
+Nearest Point: ID 141 Distance: 4.14609
+Cluster values: 19.0909 76
+
+Cluster 14
+Point ID: 147 Values: -80 19
+Point ID: 249 Values: -74 13
+Point ID: 382 Values: -68 21
+Point ID: 515 Values: -67 19
+Point ID: 588 Values: -77 14
+Point ID: 615 Values: -76 22
+Point ID: 699 Values: -82 15
+Point ID: 896 Values: -80 21
+Point ID: 922 Values: -68 23
+Point ID: 991 Values: -79 26
+Point ID: 995 Values: -73 14
+Farthest Point: ID 991 Distance: 8.26523
+Nearest Point: ID 615 Distance: 3.36364
+Cluster values: -74.9091 18.8182
+
+Cluster 15
+Point ID: 526 Values: -89 20
+Point ID: 126 Values: -89 21
+Point ID: 235 Values: -96 21
+Point ID: 507 Values: -89 20
+Point ID: 65 Values: -93 15
+Point ID: 522 Values: -92 14
+Point ID: 10 Values: -96 10
+Point ID: 146 Values: -95 11
+Farthest Point: ID 10 Distance: 7.44249
+Nearest Point: ID 65 Distance: 1.625
+Cluster values: -92.375 16.5
+
+Cluster 16
+Point ID: 212 Values: 71 -58
+Point ID: 62 Values: 71 -56
+Point ID: 858 Values: 65 -52
+Point ID: 676 Values: 78 -52
+Point ID: 807 Values: 72 -49
+Farthest Point: ID 676 Distance: 6.74685
+Nearest Point: ID 62 Distance: 2.63059
+Cluster values: 71.4 -53.4
+
+Cluster 17
+Point ID: 102 Values: 81 -46
+Point ID: 267 Values: 85 -48
+Point ID: 346 Values: 86 -39
+Point ID: 407 Values: 94 -45
+Point ID: 536 Values: 84 -45
+Point ID: 617 Values: 83 -50
+Point ID: 768 Values: 89 -36
+Farthest Point: ID 768 Distance: 8.67791
+Nearest Point: ID 536 Distance: 2.17594
+Cluster values: 86 -44.1429
+
+Cluster 18
+Point ID: 132 Values: -77 -42
+Point ID: 272 Values: -80 -42
+Point ID: 315 Values: -70 -46
+Point ID: 377 Values: -78 -52
+Point ID: 652 Values: -79 -50
+Point ID: 371 Values: -77 -55
+Point ID: 38 Values: -83 -51
+Point ID: 568 Values: -80 -57
+Farthest Point: ID 315 Distance: 8.68278
+Nearest Point: ID 652 Distance: 1.17925
+Cluster values: -78 -49.375
+
+Cluster 19
+Point ID: 641 Values: 68 -30
+Point ID: 28 Values: 63 -35
+Point ID: 112 Values: 68 -29
+Point ID: 120 Values: 67 -37
+Point ID: 150 Values: 61 -40
+Point ID: 152 Values: 65 -36
+Point ID: 259 Values: 64 -33
+Point ID: 313 Values: 61 -39
+Point ID: 357 Values: 66 -37
+Point ID: 373 Values: 68 -26
+Point ID: 376 Values: 59 -36
+Point ID: 434 Values: 58 -27
+Point ID: 715 Values: 59 -39
+Point ID: 988 Values: 59 -26
+Farthest Point: ID 373 Distance: 8.91914
+Nearest Point: ID 259 Distance: 0.914732
+Cluster values: 63.2857 -33.5714
+
+Cluster 20
+Point ID: 182 Values: -77 -36
+Point ID: 211 Values: -82 -34
+Point ID: 219 Values: -80 -33
+Point ID: 592 Values: -70 -31
+Point ID: 624 Values: -69 -34
+Point ID: 698 Values: -82 -36
+Point ID: 755 Values: -69 -38
+Point ID: 843 Values: -69 -28
+Point ID: 892 Values: -76 -36
+Point ID: 441 Values: -77 -41
+Farthest Point: ID 843 Distance: 9.06091
+Nearest Point: ID 892 Distance: 1.58114
+Cluster values: -75.1 -34.7
+
+Cluster 21
+Point ID: 297 Values: 90 -5
+Point ID: 746 Values: 85 -11
+Point ID: 888 Values: 89 2
+Point ID: 921 Values: 98 6
+Farthest Point: ID 921 Distance: 10.9659
+Nearest Point: ID 297 Distance: 3.04138
+Cluster values: 90.5 -2
+
+Cluster 22
+Point ID: 84 Values: 83 49
+Point ID: 178 Values: 83 42
+Point ID: 400 Values: 74 40
+Point ID: 659 Values: 74 49
+Point ID: 411 Values: 71 41
+Point ID: 583 Values: 75 37
+Point ID: 642 Values: 68 42
+Point ID: 874 Values: 74 50
+Point ID: 904 Values: 68 49
+Point ID: 355 Values: 72 54
+Farthest Point: ID 84 Distance: 9.5462
+Nearest Point: ID 659 Distance: 3.7054
+Cluster values: 74.2 45.3
+
+Cluster 23
+Point ID: 105 Values: 18 52
+Point ID: 318 Values: 17 53
+Point ID: 644 Values: 11 51
+Point ID: 710 Values: 0 57
+Point ID: 202 Values: 2 59
+Point ID: 903 Values: 15 58
+Point ID: 30 Values: 18 58
+Point ID: 554 Values: 15 61
+Point ID: 894 Values: 8 65
+Point ID: 362 Values: 15 65
+Point ID: 674 Values: 22 62
+Point ID: 63 Values: 28 60
+Farthest Point: ID 710 Distance: 14.1544
+Nearest Point: ID 903 Distance: 1.00692
+Cluster values: 14.0833 58.4167
+
+Cluster 24
+Point ID: 39 Values: -47 -53
+Point ID: 117 Values: -30 -54
+Point ID: 128 Values: -54 -55
+Point ID: 134 Values: -46 -51
+Point ID: 188 Values: -38 -45
+Point ID: 228 Values: -36 -50
+Point ID: 307 Values: -34 -56
+Point ID: 398 Values: -54 -62
+Point ID: 689 Values: -46 -54
+Point ID: 902 Values: -41 -47
+Point ID: 933 Values: -55 -59
+Point ID: 123 Values: -29 -56
+Point ID: 961 Values: -26 -56
+Point ID: 795 Values: -34 -59
+Farthest Point: ID 398 Distance: 15.4717
+Nearest Point: ID 689 Distance: 5.2862
+Cluster values: -40.7143 -54.0714
+
+Cluster 25
+Point ID: 171 Values: -41 -69
+Point ID: 72 Values: -24 -67
+Point ID: 176 Values: -48 -72
+Point ID: 191 Values: -49 -78
+Point ID: 521 Values: -48 -70
+Point ID: 566 Values: -36 -75
+Point ID: 603 Values: -48 -68
+Point ID: 683 Values: -38 -74
+Point ID: 774 Values: -48 -73
+Point ID: 781 Values: -35 -68
+Point ID: 906 Values: -46 -75
+Point ID: 930 Values: -36 -74
+Point ID: 976 Values: -43 -70
+Point ID: 27 Values: -39 -79
+Farthest Point: ID 72 Distance: 18.1441
+Nearest Point: ID 976 Distance: 2.81487
+Cluster values: -41.3571 -72.2857
+
+Cluster 26
+Point ID: 196 Values: -20 2
+Point ID: 207 Values: -13 -3
+Point ID: 281 Values: -11 6
+Point ID: 331 Values: -12 -7
+Point ID: 514 Values: -13 -8
+Point ID: 640 Values: -20 -6
+Point ID: 677 Values: -11 -7
+Point ID: 725 Values: -17 -1
+Point ID: 811 Values: -17 0
+Point ID: 925 Values: -15 -18
+Point ID: 722 Values: -6 -6
+Farthest Point: ID 925 Distance: 13.6666
+Nearest Point: ID 207 Distance: 1.74631
+Cluster values: -14.0909 -4.36364
+
+Cluster 27
+Point ID: 89 Values: -43 11
+Point ID: 433 Values: -41 5
+Point ID: 504 Values: -48 8
+Point ID: 137 Values: -52 10
+Point ID: 248 Values: -51 8
+Point ID: 523 Values: -46 14
+Point ID: 703 Values: -40 12
+Point ID: 197 Values: -54 9
+Point ID: 54 Values: -47 17
+Point ID: 845 Values: -44 16
+Farthest Point: ID 433 Distance: 8.20731
+Nearest Point: ID 523 Distance: 3.05941
+Cluster values: -46.6 11
+
+Cluster 28
+Point ID: 114 Values: -11 73
+Point ID: 308 Values: -6 66
+Point ID: 333 Values: -21 73
+Point ID: 348 Values: -7 67
+Point ID: 403 Values: -18 69
+Point ID: 430 Values: -18 79
+Point ID: 458 Values: -8 64
+Point ID: 618 Values: -15 72
+Point ID: 626 Values: -15 68
+Point ID: 709 Values: -16 66
+Point ID: 823 Values: -14 72
+Point ID: 835 Values: -13 66
+Point ID: 983 Values: -16 81
+Point ID: 488 Values: -13 60
+Point ID: 987 Values: -13 59
+Point ID: 594 Values: -9 58
+Point ID: 179 Values: 0 66
+Farthest Point: ID 983 Distance: 13.2849
+Nearest Point: ID 835 Distance: 2.22676
+Cluster values: -12.5294 68.1765
+
+Cluster 29
+Point ID: 542 Values: 81 -92
+Point ID: 32 Values: 86 -99
+Point ID: 40 Values: 72 -89
+Point ID: 116 Values: 63 -98
+Point ID: 163 Values: 88 -82
+Point ID: 246 Values: 92 -84
+Point ID: 247 Values: 82 -88
+Point ID: 286 Values: 94 -94
+Point ID: 544 Values: 98 -90
+Point ID: 796 Values: 82 -92
+Point ID: 965 Values: 66 -95
+Farthest Point: ID 116 Distance: 20.3575
+Nearest Point: ID 796 Distance: 0.83814
+Cluster values: 82.1818 -91.1818
+
+Cluster 30
+Point ID: 36 Values: 56 50
+Point ID: 360 Values: 54 46
+Point ID: 375 Values: 53 50
+Point ID: 421 Values: 51 42
+Point ID: 470 Values: 58 46
+Point ID: 476 Values: 49 47
+Point ID: 656 Values: 48 52
+Point ID: 716 Values: 59 48
+Point ID: 758 Values: 52 44
+Point ID: 914 Values: 60 46
+Point ID: 401 Values: 61 55
+Point ID: 607 Values: 56 54
+Point ID: 648 Values: 61 54
+Point ID: 969 Values: 56 37
+Point ID: 989 Values: 59 41
+Point ID: 391 Values: 61 39
+Farthest Point: ID 969 Distance: 9.93829
+Nearest Point: ID 360 Distance: 2.09631
+Cluster values: 55.875 46.9375
+
+Cluster 31
+Point ID: 571 Values: -41 -88
+Point ID: 74 Values: -38 -97
+Point ID: 194 Values: -34 -83
+Point ID: 294 Values: -46 -88
+Point ID: 392 Values: -34 -98
+Point ID: 474 Values: -29 -90
+Point ID: 525 Values: -39 -98
+Point ID: 531 Values: -30 -92
+Point ID: 749 Values: -38 -97
+Point ID: 759 Values: -46 -84
+Point ID: 790 Values: -48 -99
+Point ID: 952 Values: -43 -87
+Point ID: 954 Values: -44 -96
+Farthest Point: ID 790 Distance: 11.1727
+Nearest Point: ID 571 Distance: 4.44426
+Cluster values: -39.2308 -92.0769
+
+Cluster 32
+Point ID: 973 Values: 49 -6
+Point ID: 293 Values: 50 3
+Point ID: 295 Values: 53 -2
+Point ID: 428 Values: 45 0
+Point ID: 461 Values: 50 -1
+Point ID: 788 Values: 43 -10
+Point ID: 804 Values: 49 5
+Point ID: 812 Values: 53 3
+Point ID: 949 Values: 51 7
+Point ID: 826 Values: 55 11
+Point ID: 661 Values: 43 4
+Point ID: 210 Values: 46 7
+Farthest Point: ID 788 Distance: 13.1556
+Nearest Point: ID 293 Distance: 1.65412
+Cluster values: 48.9167 1.75
+
+Cluster 33
+Point ID: 563 Values: -49 48
+Point ID: 71 Values: -46 47
+Point ID: 251 Values: -56 53
+Point ID: 262 Values: -46 51
+Point ID: 717 Values: -51 54
+Point ID: 923 Values: -51 50
+Point ID: 483 Values: -52 58
+Point ID: 935 Values: -55 60
+Point ID: 4 Values: -57 58
+Point ID: 241 Values: -43 54
+Point ID: 517 Values: -53 62
+Farthest Point: ID 71 Distance: 8.57297
+Nearest Point: ID 717 Distance: 0.203279
+Cluster values: -50.8182 54.0909
+
+Cluster 34
+Point ID: 384 Values: 24 -8
+Point ID: 97 Values: 32 -17
+Point ID: 634 Values: 29 -19
+Point ID: 905 Values: 32 -11
+Point ID: 968 Values: 24 -11
+Point ID: 386 Values: 18 -14
+Point ID: 628 Values: 29 -25
+Point ID: 658 Values: 38 -7
+Point ID: 665 Values: 21 -18
+Point ID: 695 Values: 39 -15
+Point ID: 753 Values: 34 -1
+Farthest Point: ID 753 Distance: 13.2181
+Nearest Point: ID 905 Distance: 3.69163
+Cluster values: 29.0909 -13.2727
+
+Cluster 35
+Point ID: 766 Values: -36 -31
+Point ID: 22 Values: -34 -35
+Point ID: 149 Values: -43 -30
+Point ID: 169 Values: -33 -30
+Point ID: 278 Values: -35 -34
+Point ID: 292 Values: -20 -29
+Point ID: 350 Values: -41 -31
+Point ID: 388 Values: -29 -44
+Point ID: 448 Values: -23 -38
+Point ID: 576 Values: -34 -21
+Point ID: 625 Values: -37 -39
+Point ID: 664 Values: -44 -24
+Point ID: 765 Values: -41 -30
+Point ID: 782 Values: -43 -25
+Point ID: 808 Values: -40 -27
+Point ID: 854 Values: -23 -25
+Point ID: 863 Values: -29 -28
+Point ID: 947 Values: -27 -32
+Point ID: 917 Values: -46 -24
+Point ID: 929 Values: -40 -41
+Farthest Point: ID 292 Distance: 15.0207
+Nearest Point: ID 766 Distance: 1.10454
+Cluster values: -34.9 -30.9
+
+Cluster 36
+Point ID: 597 Values: -89 85
+Point ID: 5 Values: -92 85
+Point ID: 328 Values: -93 96
+Point ID: 827 Values: -90 89
+Point ID: 1000 Values: -91 90
+Farthest Point: ID 328 Distance: 7.28011
+Nearest Point: ID 827 Distance: 1
+Cluster values: -91 89
+
+Cluster 37
+Point ID: 638 Values: 76 -34
+Point ID: 329 Values: 78 -26
+Point ID: 334 Values: 84 -33
+Point ID: 974 Values: 85 -32
+Point ID: 185 Values: 72 -31
+Point ID: 619 Values: 79 -23
+Farthest Point: ID 185 Distance: 7.09656
+Nearest Point: ID 329 Distance: 3.96162
+Cluster values: 79 -29.8333
+
+Cluster 38
+Point ID: 44 Values: -75 51
+Point ID: 151 Values: -77 46
+Point ID: 220 Values: -80 48
+Point ID: 762 Values: -79 54
+Point ID: 887 Values: -84 49
+Point ID: 950 Values: -79 57
+Farthest Point: ID 950 Distance: 6.16667
+Nearest Point: ID 220 Distance: 3.00463
+Cluster values: -79 50.8333
+
+Cluster 39
+Point ID: 547 Values: -99 51
+Point ID: 420 Values: -98 56
+Point ID: 540 Values: -98 52
+Point ID: 605 Values: -97 50
+Point ID: 59 Values: -97 47
+Point ID: 864 Values: -97 48
+Farthest Point: ID 420 Distance: 5.34374
+Nearest Point: ID 605 Distance: 0.942809
+Cluster values: -97.6667 50.6667
+
+Cluster 40
+Point ID: 145 Values: 84 76
+Point ID: 240 Values: 76 76
+Point ID: 385 Values: 86 81
+Point ID: 390 Values: 85 76
+Point ID: 460 Values: 73 81
+Point ID: 609 Values: 81 75
+Point ID: 960 Values: 93 76
+Point ID: 312 Values: 86 71
+Farthest Point: ID 460 Distance: 10.9659
+Nearest Point: ID 145 Distance: 1.11803
+Cluster values: 83 76.5
+
+Cluster 41
+Point ID: 24 Values: -91 -69
+Point ID: 64 Values: -89 -59
+Point ID: 83 Values: -86 -61
+Point ID: 108 Values: -90 -65
+Point ID: 637 Values: -90 -66
+Point ID: 660 Values: -95 -65
+Point ID: 773 Values: -84 -58
+Point ID: 76 Values: -93 -57
+Farthest Point: ID 773 Distance: 7.30154
+Nearest Point: ID 108 Distance: 2.51247
+Cluster values: -89.75 -62.5
+
+Cluster 42
+Point ID: 697 Values: -87 85
+Point ID: 465 Values: -85 92
+Point ID: 529 Values: -82 86
+Point ID: 853 Values: -78 84
+Farthest Point: ID 853 Distance: 5.70636
+Nearest Point: ID 529 Distance: 1.25
+Cluster values: -83 86.75
+
+Cluster 43
+Point ID: 693 Values: 86 -20
+Point ID: 21 Values: 97 -21
+Point ID: 221 Values: 91 -31
+Point ID: 520 Values: 88 -19
+Point ID: 535 Values: 92 -14
+Point ID: 702 Values: 93 -15
+Point ID: 831 Values: 98 -22
+Point ID: 916 Values: 86 -14
+Point ID: 945 Values: 98 -23
+Point ID: 757 Values: 96 -13
+Farthest Point: ID 221 Distance: 11.895
+Nearest Point: ID 702 Distance: 4.22966
+Cluster values: 92.5 -19.2
+
+Cluster 44
+Point ID: 986 Values: -67 -87
+Point ID: 330 Values: -70 -95
+Point ID: 884 Values: -68 -86
+Point ID: 93 Values: -74 -86
+Farthest Point: ID 330 Distance: 6.50481
+Nearest Point: ID 884 Distance: 3.05164
+Cluster values: -69.75 -88.5
+
+Cluster 45
+Point ID: 593 Values: -92 57
+Point ID: 88 Values: -90 61
+Point ID: 227 Values: -82 64
+Point ID: 601 Values: -90 54
+Farthest Point: ID 227 Distance: 8.20061
+Nearest Point: ID 88 Distance: 2.5
+Cluster values: -88.5 59
+
+Cluster 46
+Point ID: 440 Values: -57 -7
+Point ID: 657 Values: -59 -11
+Point ID: 723 Values: -61 -14
+Point ID: 300 Values: -52 -18
+Point ID: 738 Values: -52 -19
+Point ID: 776 Values: -62 -18
+Point ID: 60 Values: -64 -20
+Point ID: 671 Values: -64 -23
+Point ID: 582 Values: -61 -24
+Point ID: 164 Values: -67 -16
+Point ID: 426 Values: -67 -21
+Farthest Point: ID 440 Distance: 10.9533
+Nearest Point: ID 776 Distance: 1.58766
+Cluster values: -60.5455 -17.3636
+
+Cluster 47
+Point ID: 288 Values: -15 98
+Point ID: 222 Values: -19 88
+Point ID: 252 Values: -8 86
+Point ID: 414 Values: 13 97
+Point ID: 444 Values: 0 79
+Point ID: 534 Values: -12 85
+Point ID: 558 Values: 5 88
+Point ID: 562 Values: 1 97
+Point ID: 635 Values: -7 88
+Point ID: 890 Values: -5 91
+Point ID: 912 Values: -11 96
+Farthest Point: ID 414 Distance: 19.4717
+Nearest Point: ID 890 Distance: 0.776728
+Cluster values: -5.27273 90.2727
+
+Cluster 48
+Point ID: 405 Values: 24 44
+Point ID: 590 Values: 24 44
+Point ID: 49 Values: 22 37
+Point ID: 653 Values: 23 44
+Point ID: 666 Values: 21 40
+Point ID: 919 Values: 20 45
+Point ID: 327 Values: 19 45
+Point ID: 551 Values: 16 37
+Point ID: 824 Values: 13 36
+Point ID: 81 Values: 11 41
+Point ID: 953 Values: 15 48
+Farthest Point: ID 824 Distance: 8.35672
+Nearest Point: ID 666 Distance: 2.83135
+Cluster values: 18.9091 41.9091
+
+Cluster 49
+Point ID: 177 Values: 92 35
+Point ID: 130 Values: 91 36
+Point ID: 602 Values: 90 35
+Point ID: 797 Values: 79 35
+Point ID: 998 Values: 89 31
+Point ID: 92 Values: 86 28
+Point ID: 955 Values: 76 32
+Point ID: 777 Values: 77 24
+Farthest Point: ID 777 Distance: 11.3137
+Nearest Point: ID 998 Distance: 4.12311
+Cluster values: 85 32
+
+Cluster 50
+Point ID: 970 Values: 36 -82
+Point ID: 66 Values: 34 -81
+Point ID: 218 Values: 47 -78
+Point ID: 225 Values: 34 -94
+Point ID: 244 Values: 48 -80
+Point ID: 322 Values: 48 -92
+Point ID: 468 Values: 47 -87
+Point ID: 484 Values: 48 -85
+Point ID: 494 Values: 35 -86
+Point ID: 616 Values: 53 -95
+Point ID: 629 Values: 41 -83
+Point ID: 670 Values: 39 -79
+Point ID: 728 Values: 46 -95
+Point ID: 730 Values: 52 -88
+Point ID: 814 Values: 39 -95
+Point ID: 821 Values: 46 -94
+Point ID: 841 Values: 33 -82
+Point ID: 860 Values: 32 -80
+Point ID: 990 Values: 34 -83
+Point ID: 669 Values: 31 -99
+Farthest Point: ID 669 Distance: 15.7934
+Nearest Point: ID 629 Distance: 3.90288
+Cluster values: 41.15 -86.9
+
+Cluster 51
+Point ID: 37 Values: 64 -1
+Point ID: 289 Values: 67 -1
+Point ID: 381 Values: 62 -7
+Point ID: 882 Values: 66 -10
+Point ID: 873 Values: 57 -5
+Farthest Point: ID 873 Distance: 6.20322
+Nearest Point: ID 381 Distance: 2.50599
+Cluster values: 63.2 -4.8
+
+Cluster 52
+Point ID: 733 Values: -60 70
+Point ID: 55 Values: -47 71
+Point ID: 57 Values: -57 74
+Point ID: 100 Values: -62 76
+Point ID: 110 Values: -56 64
+Point ID: 139 Values: -52 74
+Point ID: 180 Values: -68 71
+Point ID: 226 Values: -58 78
+Point ID: 397 Values: -59 78
+Point ID: 639 Values: -63 71
+Farthest Point: ID 55 Distance: 11.3283
+Nearest Point: ID 57 Distance: 1.76918
+Cluster values: -58.2 72.7
+
+Cluster 53
+Point ID: 511 Values: -79 74
+Point ID: 828 Values: -85 78
+Point ID: 981 Values: -77 76
+Point ID: 816 Values: -74 72
+Farthest Point: ID 828 Distance: 6.93271
+Nearest Point: ID 511 Distance: 1.03078
+Cluster values: -78.75 75
+
+Cluster 54
+Point ID: 417 Values: 94 94
+Point ID: 29 Values: 98 86
+Point ID: 584 Values: 79 95
+Point ID: 585 Values: 89 96
+Point ID: 943 Values: 91 92
+Point ID: 979 Values: 82 94
+Point ID: 69 Values: 70 97
+Farthest Point: ID 69 Distance: 16.5332
+Nearest Point: ID 585 Distance: 3.84389
+Cluster values: 86.1429 93.4286
+
+Cluster 55
+Point ID: 395 Values: -92 82
+Point ID: 608 Values: -94 77
+Point ID: 73 Values: -98 74
+Point ID: 198 Values: -88 82
+Point ID: 309 Values: -94 74
+Point ID: 820 Values: -90 83
+Farthest Point: ID 73 Distance: 7.08676
+Nearest Point: ID 608 Distance: 2.13437
+Cluster values: -92.6667 78.6667
+
+Cluster 56
+Point ID: 982 Values: 56 -15
+Point ID: 127 Values: 60 -13
+Point ID: 159 Values: 63 -11
+Point ID: 200 Values: 54 -12
+Point ID: 478 Values: 58 -8
+Point ID: 490 Values: 66 -17
+Point ID: 942 Values: 52 -12
+Point ID: 50 Values: 63 -22
+Farthest Point: ID 50 Distance: 9.16856
+Nearest Point: ID 127 Distance: 1.25
+Cluster values: 59 -13.75
+
+Cluster 57
+Point ID: 479 Values: 44 64
+Point ID: 13 Values: 35 65
+Point ID: 25 Values: 50 67
+Point ID: 111 Values: 49 68
+Point ID: 165 Values: 40 63
+Point ID: 173 Values: 50 67
+Point ID: 208 Values: 43 63
+Point ID: 277 Values: 43 75
+Point ID: 283 Values: 36 74
+Point ID: 573 Values: 40 68
+Point ID: 720 Values: 50 68
+Farthest Point: ID 283 Distance: 10.0577
+Nearest Point: ID 479 Distance: 3.47363
+Cluster values: 43.6364 67.4545
+
+Cluster 58
+Point ID: 41 Values: -4 37
+Point ID: 153 Values: -5 52
+Point ID: 342 Values: -2 40
+Point ID: 533 Values: -12 42
+Point ID: 578 Values: -13 46
+Point ID: 604 Values: -7 40
+Point ID: 740 Values: -12 44
+Point ID: 741 Values: -2 44
+Point ID: 771 Values: -1 35
+Point ID: 984 Values: -4 35
+Point ID: 798 Values: 2 35
+Point ID: 195 Values: 2 38
+Point ID: 993 Values: 3 39
+Point ID: 424 Values: 6 41
+Farthest Point: ID 153 Distance: 11.5266
+Nearest Point: ID 342 Distance: 1.60516
+Cluster values: -3.5 40.5714
+
+Cluster 59
+Point ID: 454 Values: 36 -49
+Point ID: 33 Values: 40 -51
+Point ID: 75 Values: 36 -49
+Point ID: 131 Values: 32 -53
+Point ID: 645 Values: 17 -56
+Point ID: 647 Values: 40 -52
+Point ID: 834 Values: 22 -51
+Point ID: 883 Values: 26 -56
+Point ID: 839 Values: 35 -42
+Point ID: 847 Values: 34 -42
+Point ID: 675 Values: 32 -39
+Point ID: 948 Values: 35 -38
+Farthest Point: ID 645 Distance: 16.9961
+Nearest Point: ID 454 Distance: 4.00434
+Cluster values: 32.0833 -48.1667
+
+Cluster 60
+Point ID: 473 Values: 31 32
+Point ID: 8 Values: 35 20
+Point ID: 337 Values: 39 29
+Point ID: 450 Values: 26 25
+Point ID: 565 Values: 43 23
+Point ID: 772 Values: 34 30
+Point ID: 851 Values: 34 30
+Point ID: 866 Values: 35 19
+Point ID: 472 Values: 33 35
+Farthest Point: ID 565 Distance: 9.44444
+Nearest Point: ID 772 Distance: 3.03274
+Cluster values: 34.4444 27
+
+Cluster 61
+Point ID: 745 Values: -66 56
+Point ID: 95 Values: -69 55
+Point ID: 415 Values: -65 60
+Point ID: 532 Values: -66 57
+Point ID: 690 Values: -75 63
+Point ID: 779 Values: -67 60
+Point ID: 780 Values: -61 59
+Point ID: 911 Values: -67 60
+Point ID: 45 Values: -64 64
+Point ID: 432 Values: -67 52
+Point ID: 513 Values: -66 50
+Point ID: 447 Values: -68 49
+Point ID: 548 Values: -63 49
+Farthest Point: ID 690 Distance: 10.7544
+Nearest Point: ID 745 Distance: 0.652714
+Cluster values: -66.4615 56.4615
+
+Cluster 62
+Point ID: 20 Values: -67 -62
+Point ID: 3 Values: -76 -70
+Point ID: 168 Values: -69 -67
+Point ID: 380 Values: -74 -68
+Point ID: 556 Values: -68 -64
+Point ID: 580 Values: -74 -68
+Point ID: 706 Values: -63 -60
+Point ID: 713 Values: -61 -63
+Point ID: 805 Values: -79 -63
+Farthest Point: ID 713 Distance: 9.32804
+Nearest Point: ID 168 Distance: 2.28792
+Cluster values: -70.1111 -65
+
+Cluster 63
+Point ID: 190 Values: 18 -47
+Point ID: 273 Values: 20 -33
+Point ID: 284 Values: 25 -33
+Point ID: 358 Values: 20 -42
+Point ID: 393 Values: 29 -37
+Point ID: 481 Values: 27 -35
+Point ID: 577 Values: 22 -33
+Point ID: 748 Values: 12 -41
+Point ID: 756 Values: 18 -39
+Point ID: 959 Values: 21 -32
+Point ID: 668 Values: 15 -31
+Point ID: 14 Values: 9 -38
+Point ID: 332 Values: 8 -41
+Point ID: 932 Values: 9 -44
+Farthest Point: ID 932 Distance: 11.1183
+Nearest Point: ID 756 Distance: 1.43036
+Cluster values: 18.0714 -37.5714
+
+Cluster 64
+Point ID: 632 Values: 91 -69
+Point ID: 136 Values: 96 -80
+Point ID: 232 Values: 97 -66
+Point ID: 282 Values: 95 -75
+Point ID: 296 Values: 90 -68
+Point ID: 595 Values: 91 -69
+Point ID: 726 Values: 97 -78
+Point ID: 918 Values: 96 -63
+Point ID: 80 Values: 81 -76
+Point ID: 701 Values: 79 -69
+Farthest Point: ID 701 Distance: 12.5132
+Nearest Point: ID 632 Distance: 2.31948
+Cluster values: 91.3 -71.3
+
+Cluster 65
+Point ID: 301 Values: 34 2
+Point ID: 231 Values: 46 18
+Point ID: 321 Values: 40 15
+Point ID: 379 Values: 47 14
+Point ID: 445 Values: 43 18
+Point ID: 572 Values: 46 18
+Point ID: 662 Values: 36 4
+Point ID: 936 Values: 36 13
+Point ID: 96 Values: 49 11
+Point ID: 881 Values: 50 15
+Point ID: 574 Values: 47 21
+Farthest Point: ID 301 Distance: 14.695
+Nearest Point: ID 321 Distance: 3.41605
+Cluster values: 43.0909 13.5455
+
+Cluster 66
+Point ID: 591 Values: -46 42
+Point ID: 106 Values: -39 42
+Point ID: 107 Values: -51 37
+Point ID: 138 Values: -52 31
+Point ID: 229 Values: -36 43
+Point ID: 302 Values: -50 31
+Point ID: 506 Values: -55 31
+Point ID: 663 Values: -53 32
+Point ID: 786 Values: -42 36
+Point ID: 859 Values: -47 38
+Point ID: 895 Values: -39 44
+Farthest Point: ID 229 Distance: 11.9752
+Nearest Point: ID 859 Distance: 1.18531
+Cluster values: -46.3636 37
+
+Cluster 67
+Point ID: 325 Values: -17 18
+Point ID: 752 Values: -27 22
+Point ID: 162 Values: -24 30
+Point ID: 310 Values: -28 30
+Point ID: 344 Values: -15 19
+Point ID: 613 Values: -10 19
+Point ID: 855 Values: -23 31
+Point ID: 166 Values: -21 31
+Point ID: 711 Values: -29 38
+Point ID: 784 Values: -10 14
+Point ID: 305 Values: -26 37
+Point ID: 53 Values: -19 35
+Point ID: 58 Values: -25 40
+Point ID: 287 Values: -10 26
+Point ID: 946 Values: -14 33
+Point ID: 121 Values: -16 38
+Farthest Point: ID 784 Distance: 17.665
+Nearest Point: ID 166 Distance: 2.58375
+Cluster values: -19.625 28.8125
+
+Cluster 68
+Point ID: 48 Values: -80 -85
+Point ID: 79 Values: -84 -80
+Point ID: 216 Values: -83 -84
+Point ID: 589 Values: -85 -85
+Point ID: 686 Values: -77 -81
+Point ID: 727 Values: -77 -74
+Point ID: 880 Values: -78 -77
+Point ID: 143 Values: -82 -90
+Point ID: 719 Values: -83 -74
+Farthest Point: ID 143 Distance: 8.94496
+Nearest Point: ID 79 Distance: 3.19915
+Cluster values: -81 -81.1111
+
+Cluster 69
+Point ID: 538 Values: -95 67
+Point ID: 109 Values: -89 66
+Point ID: 119 Values: -87 68
+Point ID: 557 Values: -91 64
+Point ID: 643 Values: -95 62
+Point ID: 718 Values: -88 64
+Farthest Point: ID 643 Distance: 5.23344
+Nearest Point: ID 557 Distance: 1.17851
+Cluster values: -90.8333 65.1667
+
+Cluster 70
+Point ID: 963 Values: -91 -78
+Point ID: 365 Values: -93 -80
+Point ID: 787 Values: -92 -83
+Point ID: 928 Values: -91 -73
+Point ID: 7 Values: -95 -71
+Farthest Point: ID 7 Distance: 6.53911
+Nearest Point: ID 963 Distance: 1.72047
+Cluster values: -92.4 -77
+
+Cluster 71
+Point ID: 19 Values: -90 -96
+Point ID: 326 Values: -94 -99
+Point ID: 714 Values: -93 -97
+Farthest Point: ID 19 Distance: 2.68742
+Nearest Point: ID 714 Distance: 0.745356
+Cluster values: -92.3333 -97.3333
+
+Cluster 72
+Point ID: 255 Values: 78 -43
+Point ID: 809 Values: 72 -41
+Point ID: 832 Values: 66 -44
+Point ID: 872 Values: 69 -46
+Point ID: 492 Values: 72 -38
+Point ID: 801 Values: 70 -38
+Point ID: 464 Values: 78 -40
+Point ID: 951 Values: 75 -37
+Farthest Point: ID 832 Distance: 7.21219
+Nearest Point: ID 809 Distance: 0.515388
+Cluster values: 72.5 -40.875
+
+Cluster 73
+Point ID: 621 Values: 12 -17
+Point ID: 224 Values: 4 -22
+Point ID: 245 Values: 11 -14
+Point ID: 423 Values: 2 -31
+Point ID: 495 Values: 9 -15
+Point ID: 508 Values: 5 -30
+Point ID: 636 Values: -5 -26
+Point ID: 316 Values: -8 -27
+Point ID: 685 Values: -11 -25
+Point ID: 115 Values: -6 -16
+Point ID: 160 Values: -14 -22
+Point ID: 694 Values: 2 -12
+Farthest Point: ID 160 Distance: 14.0954
+Nearest Point: ID 224 Distance: 3.95987
+Cluster values: 0.0833333 -21.4167
+
+Cluster 74
+Point ID: 412 Values: -64 39
+Point ID: 427 Values: -67 45
+Point ID: 499 Values: -64 32
+Point ID: 649 Values: -68 41
+Point ID: 655 Values: -66 38
+Point ID: 806 Values: -64 33
+Point ID: 850 Values: -67 38
+Point ID: 739 Values: -59 31
+Farthest Point: ID 739 Distance: 8.48712
+Nearest Point: ID 655 Distance: 1.42522
+Cluster values: -64.875 37.125
+
+Cluster 75
+Point ID: 67 Values: -62 5
+Point ID: 442 Values: -68 2
+Point ID: 754 Values: -65 2
+Point ID: 537 Values: -73 2
+Point ID: 124 Values: -73 7
+Farthest Point: ID 67 Distance: 6.3561
+Nearest Point: ID 442 Distance: 1.61245
+Cluster values: -68.2 3.6
+
+Cluster 76
+Point ID: 516 Values: 98 47
+Point ID: 667 Values: 98 46
+Point ID: 941 Values: 92 47
+Point ID: 467 Values: 97 53
+Farthest Point: ID 467 Distance: 4.80885
+Nearest Point: ID 516 Distance: 2.15058
+Cluster values: 96.25 48.25
+
+Cluster 77
+Point ID: 570 Values: 46 -51
+Point ID: 148 Values: 46 -46
+Point ID: 199 Values: 50 -36
+Point ID: 345 Values: 54 -43
+Point ID: 364 Values: 51 -40
+Point ID: 418 Values: 49 -43
+Point ID: 459 Values: 47 -41
+Point ID: 579 Values: 51 -35
+Point ID: 862 Values: 51 -37
+Point ID: 875 Values: 49 -51
+Point ID: 16 Values: 48 -34
+Point ID: 70 Values: 51 -34
+Farthest Point: ID 570 Distance: 10.6465
+Nearest Point: ID 364 Distance: 1.82954
+Cluster values: 49.4167 -40.9167
+
+Cluster 78
+Point ID: 842 Values: -92 -49
+Point ID: 86 Values: -90 -48
+Point ID: 133 Values: -90 -50
+Point ID: 363 Values: -88 -44
+Point ID: 366 Values: -93 -45
+Point ID: 561 Values: -95 -39
+Farthest Point: ID 561 Distance: 7.75493
+Nearest Point: ID 366 Distance: 1.86339
+Cluster values: -91.3333 -45.8333
+
+Cluster 79
+Point ID: 498 Values: 38 -60
+Point ID: 422 Values: 26 -63
+Point ID: 475 Values: 49 -62
+Point ID: 482 Values: 29 -63
+Point ID: 527 Values: 25 -66
+Point ID: 817 Values: 28 -59
+Point ID: 852 Values: 42 -70
+Point ID: 893 Values: 40 -62
+Point ID: 927 Values: 16 -62
+Point ID: 712 Values: 26 -71
+Point ID: 967 Values: 24 -70
+Point ID: 340 Values: 34 -75
+Farthest Point: ID 475 Distance: 17.8812
+Nearest Point: ID 482 Distance: 3.30194
+Cluster values: 31.4167 -65.25
+
+Cluster 80
+Point ID: 77 Values: -28 61
+Point ID: 567 Values: -36 53
+Point ID: 611 Values: -33 62
+Point ID: 822 Values: -32 62
+Point ID: 869 Values: -33 52
+Point ID: 11 Values: -31 66
+Point ID: 956 Values: -23 50
+Point ID: 856 Values: -23 64
+Point ID: 378 Values: -26 71
+Farthest Point: ID 956 Distance: 11.9902
+Nearest Point: ID 77 Distance: 1.69604
+Cluster values: -29.4444 60.1111
+
+Cluster 81
+Point ID: 181 Values: 66 70
+Point ID: 189 Values: 65 62
+Point ID: 735 Values: 65 71
+Point ID: 844 Values: 63 63
+Point ID: 802 Values: 61 63
+Point ID: 370 Values: 65 77
+Point ID: 620 Values: 61 69
+Point ID: 215 Values: 60 72
+Point ID: 410 Values: 58 74
+Point ID: 497 Values: 66 80
+Point ID: 623 Values: 62 81
+Point ID: 794 Values: 58 76
+Point ID: 800 Values: 58 74
+Point ID: 61 Values: 63 86
+Point ID: 260 Values: 67 80
+Point ID: 485 Values: 62 82
+Point ID: 463 Values: 63 89
+Point ID: 724 Values: 59 86
+Point ID: 630 Values: 53 82
+Point ID: 793 Values: 66 90
+Point ID: 915 Values: 60 92
+Point ID: 898 Values: 52 83
+Farthest Point: ID 189 Distance: 15.7573
+Nearest Point: ID 370 Distance: 3.51884
+Cluster values: 61.5 77.3636
+
+Cluster 82
+Point ID: 113 Values: -11 -48
+Point ID: 15 Values: -7 -66
+Point ID: 118 Values: -10 -38
+Point ID: 129 Values: -15 -44
+Point ID: 172 Values: -5 -57
+Point ID: 175 Values: -14 -54
+Point ID: 186 Values: -17 -42
+Point ID: 187 Values: -13 -54
+Point ID: 214 Values: 2 -53
+Point ID: 291 Values: -20 -57
+Point ID: 320 Values: 2 -59
+Point ID: 335 Values: 4 -42
+Point ID: 456 Values: -18 -44
+Point ID: 546 Values: 0 -47
+Point ID: 552 Values: 4 -66
+Point ID: 631 Values: -7 -63
+Point ID: 680 Values: -4 -39
+Point ID: 743 Values: 6 -58
+Point ID: 760 Values: -1 -55
+Point ID: 778 Values: 0 -40
+Point ID: 819 Values: -8 -37
+Point ID: 825 Values: -9 -49
+Point ID: 857 Values: -17 -42
+Point ID: 865 Values: -16 -60
+Point ID: 889 Values: -14 -39
+Point ID: 962 Values: 4 -60
+Point ID: 966 Values: 2 -62
+Point ID: 999 Values: 10 -53
+Farthest Point: ID 552 Distance: 18.1074
+Nearest Point: ID 825 Distance: 3.48759
+Cluster values: -6.14286 -51
+
+Cluster 83
+Point ID: 510 Values: 77 -4
+Point ID: 237 Values: 76 -3
+Point ID: 336 Values: 79 -2
+Farthest Point: ID 336 Distance: 1.94365
+Nearest Point: ID 510 Distance: 1.05409
+Cluster values: 77.3333 -3
+
+Cluster 84
+Point ID: 587 Values: -79 -10
+Point ID: 12 Values: -81 -11
+Point ID: 18 Values: -70 -10
+Point ID: 184 Values: -77 -23
+Point ID: 217 Values: -77 -19
+Point ID: 230 Values: -73 -6
+Point ID: 396 Values: -70 -13
+Point ID: 731 Values: -77 -19
+Point ID: 836 Values: -82 -13
+Point ID: 940 Values: -78 -23
+Point ID: 682 Values: -83 -18
+Farthest Point: ID 230 Distance: 9.84886
+Nearest Point: ID 217 Distance: 4
+Cluster values: -77 -15
+
+Cluster 85
+Point ID: 206 Values: 77 4
+Point ID: 354 Values: 72 5
+Point ID: 792 Values: 66 10
+Farthest Point: ID 792 Distance: 6.74949
+Nearest Point: ID 354 Distance: 1.37437
+Cluster values: 71.6667 6.33333
+
+Cluster 86
+Point ID: 280 Values: -93 38
+Point ID: 374 Values: -96 33
+Point ID: 404 Values: -93 41
+Point ID: 870 Values: -91 44
+Point ID: 451 Values: -88 33
+Point ID: 938 Values: -82 36
+Point ID: 799 Values: -94 28
+Farthest Point: ID 938 Distance: 9.00113
+Nearest Point: ID 280 Distance: 2.72928
+Cluster values: -91 36.1429
+
+Cluster 87
+Point ID: 909 Values: 15 2
+Point ID: 78 Values: 23 8
+Point ID: 673 Values: 20 10
+Point ID: 886 Values: 14 7
+Point ID: 924 Values: 20 12
+Point ID: 268 Values: 21 17
+Point ID: 122 Values: 30 12
+Farthest Point: ID 122 Distance: 9.84057
+Nearest Point: ID 673 Distance: 0.515079
+Cluster values: 20.4286 9.71429
+
+Cluster 88
+Point ID: 276 Values: 5 -2
+Point ID: 233 Values: -2 8
+Point ID: 261 Values: 3 7
+Point ID: 353 Values: 8 -4
+Point ID: 431 Values: 4 8
+Point ID: 500 Values: 8 -1
+Point ID: 543 Values: -4 1
+Point ID: 907 Values: 8 -2
+Point ID: 977 Values: 4 -10
+Point ID: 209 Values: 12 -4
+Point ID: 972 Values: 9 3
+Point ID: 170 Values: 5 10
+Point ID: 957 Values: 11 1
+Farthest Point: ID 977 Distance: 11.2492
+Nearest Point: ID 276 Distance: 3.18744
+Cluster values: 5.46154 1.15385
+
+Cluster 89
+Point ID: 769 Values: 89 21
+Point ID: 183 Values: 87 16
+Point ID: 193 Values: 95 13
+Point ID: 368 Values: 94 16
+Point ID: 387 Values: 83 17
+Point ID: 449 Values: 83 20
+Point ID: 505 Values: 90 20
+Point ID: 633 Values: 82 21
+Point ID: 678 Values: 90 19
+Point ID: 744 Values: 88 22
+Point ID: 750 Values: 86 16
+Point ID: 910 Values: 95 17
+Farthest Point: ID 193 Distance: 8.30328
+Nearest Point: ID 678 Distance: 1.71594
+Cluster values: 88.5 18.1667
+
+Cluster 90
+Point ID: 167 Values: 46 -18
+Point ID: 9 Values: 46 -15
+Point ID: 51 Values: 42 -27
+Point ID: 98 Values: 53 -24
+Point ID: 274 Values: 42 -23
+Point ID: 457 Values: 50 -28
+Point ID: 487 Values: 46 -22
+Point ID: 612 Values: 47 -29
+Point ID: 791 Values: 45 -15
+Point ID: 813 Values: 37 -26
+Point ID: 885 Values: 46 -28
+Point ID: 399 Values: 55 -25
+Point ID: 402 Values: 54 -23
+Point ID: 721 Values: 37 -32
+Farthest Point: ID 721 Distance: 12.1959
+Nearest Point: ID 487 Distance: 1.93386
+Cluster values: 46.1429 -23.9286
+
+Cluster 91
+Point ID: 598 Values: -58 90
+Point ID: 103 Values: -62 90
+Point ID: 174 Values: -73 94
+Point ID: 359 Values: -72 88
+Point ID: 493 Values: -71 91
+Point ID: 575 Values: -58 93
+Point ID: 734 Values: -60 98
+Point ID: 861 Values: -65 86
+Point ID: 891 Values: -63 89
+Point ID: 550 Values: -51 89
+Farthest Point: ID 550 Distance: 12.431
+Nearest Point: ID 103 Distance: 1.52643
+Cluster values: -63.3 90.8
+
+Cluster 92
+Point ID: 789 Values: 35 46
+Point ID: 830 Values: 36 44
+Point ID: 868 Values: 34 46
+Point ID: 767 Values: 41 49
+Point ID: 846 Values: 38 52
+Point ID: 524 Values: 31 45
+Point ID: 705 Values: 31 40
+Point ID: 818 Values: 30 42
+Farthest Point: ID 767 Distance: 7.38241
+Nearest Point: ID 789 Distance: 0.707107
+Cluster values: 34.5 45.5
+
+Cluster 93
+Point ID: 87 Values: -90 -2
+Point ID: 770 Values: -94 -5
+Point ID: 729 Values: -95 -7
+Point ID: 383 Values: -86 -6
+Point ID: 518 Values: -93 -7
+Point ID: 323 Values: -84 -7
+Point ID: 56 Values: -87 -9
+Point ID: 600 Values: -90 -11
+Point ID: 599 Values: -90 -13
+Point ID: 416 Values: -89 -14
+Point ID: 528 Values: -82 -9
+Farthest Point: ID 528 Distance: 7.13796
+Nearest Point: ID 56 Distance: 2.24529
+Cluster values: -89.0909 -8.18182
+
+Cluster 94
+Point ID: 85 Values: -92 -25
+Point ID: 158 Values: -92 -24
+Point ID: 254 Values: -95 -26
+Point ID: 258 Values: -93 -21
+Point ID: 553 Values: -96 -25
+Point ID: 555 Values: -88 -27
+Point ID: 596 Values: -87 -22
+Farthest Point: ID 596 Distance: 5.36808
+Nearest Point: ID 158 Distance: 0.319438
+Cluster values: -91.8571 -24.2857
+
+Cluster 95
+Point ID: 803 Values: -35 8
+Point ID: 299 Values: -34 8
+Point ID: 314 Values: -31 8
+Point ID: 317 Values: -29 5
+Point ID: 994 Values: -27 5
+Point ID: 17 Values: -35 1
+Point ID: 341 Values: -30 13
+Point ID: 539 Values: -30 -1
+Point ID: 356 Values: -29 15
+Farthest Point: ID 356 Distance: 8.38134
+Nearest Point: ID 314 Distance: 1.11665
+Cluster values: -31.1111 6.88889
+
+Cluster 96
+Point ID: 469 Values: 22 -87
+Point ID: 6 Values: 12 -95
+Point ID: 46 Values: 14 -91
+Point ID: 144 Values: 11 -94
+Point ID: 213 Values: 7 -88
+Point ID: 242 Values: 25 -77
+Point ID: 253 Values: 5 -77
+Point ID: 256 Values: 5 -92
+Point ID: 290 Values: 21 -92
+Point ID: 304 Values: 12 -65
+Point ID: 352 Values: 19 -93
+Point ID: 372 Values: 10 -64
+Point ID: 425 Values: 7 -89
+Point ID: 462 Values: 13 -72
+Point ID: 503 Values: 15 -70
+Point ID: 833 Values: 22 -95
+Point ID: 679 Values: 2 -69
+Farthest Point: ID 372 Distance: 19.1866
+Nearest Point: ID 213 Distance: 7.8931
+Cluster values: 13.0588 -82.9412
+
+Cluster 97
+Point ID: 47 Values: -15 -86
+Point ID: 23 Values: 1 -89
+Point ID: 52 Values: -13 -79
+Point ID: 140 Values: -14 -90
+Point ID: 223 Values: -14 -94
+Point ID: 234 Values: 3 -98
+Point ID: 298 Values: 0 -83
+Point ID: 319 Values: -20 -92
+Point ID: 438 Values: -17 -93
+Point ID: 443 Values: -12 -80
+Point ID: 446 Values: -12 -93
+Point ID: 452 Values: -2 -89
+Point ID: 501 Values: -2 -97
+Point ID: 549 Values: -8 -91
+Point ID: 564 Values: -17 -76
+Point ID: 840 Values: -14 -89
+Point ID: 899 Values: -2 -85
+Point ID: 937 Values: -23 -85
+Point ID: 975 Values: -19 -94
+Point ID: 996 Values: -21 -99
+Farthest Point: ID 234 Distance: 16.6317
+Nearest Point: ID 840 Distance: 2.95169
+Cluster values: -11.05 -89.1
+
+Cluster 98
+Point ID: 849 Values: 83 7
+Point ID: 614 Values: 80 16
+Point ID: 622 Values: 83 4
+Point ID: 742 Values: 82 14
+Point ID: 815 Values: 89 10
+Point ID: 157 Values: 78 17
+Farthest Point: ID 622 Distance: 7.35036
+Nearest Point: ID 742 Distance: 2.71314
+Cluster values: 82.5 11.3333
+
+Cluster 99
+Point ID: 142 Values: -36 -7
+Point ID: 239 Values: -29 -5
+Point ID: 269 Values: -38 -4
+Point ID: 275 Values: -42 -13
+Point ID: 369 Values: -42 -12
+Point ID: 408 Values: -30 -15
+Point ID: 429 Values: -44 -9
+Point ID: 559 Values: -39 -5
+Point ID: 654 Values: -39 -9
+Point ID: 992 Values: -27 -15
+Point ID: 31 Values: -38 -15
+Point ID: 980 Values: -43 -17
+Point ID: 964 Values: -49 -7
+Farthest Point: ID 992 Distance: 12.1307
+Nearest Point: ID 654 Distance: 1.49358
+Cluster values: -38.1538 -10.2308
+
+Cluster 100
+Point ID: 871 Values: 96 60
+Point ID: 901 Values: 90 56
+Point ID: 810 Values: 84 61
+Point ID: 707 Values: 83 60
+Point ID: 908 Values: 93 68
+Point ID: 436 Values: 79 60
+Point ID: 692 Values: 88 67
+Point ID: 877 Values: 92 70
+Point ID: 266 Values: 77 64
+Point ID: 453 Values: 73 61
+Farthest Point: ID 453 Distance: 12.6151
+Nearest Point: ID 810 Distance: 2.26716
+Cluster values: 85.5 62.7
+
+
+--------------------------------
+Process exited after 146.5 seconds with return value 0
+Press any key to continue . . .
+
+
+
+
+
+
